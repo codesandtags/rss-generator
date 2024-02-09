@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Tech Trends Newsletter</title>
+    <link>https://www.techtrends.com/rss</link>
+    <description>Your weekly dose of the latest technology news, articles, and insights.</description>
+    <language>en-us</language>
+    <lastBuildDate>2024-02-07T12:00:00+00:00</lastBuildDate>
+    <updatePeriod>weekly</updatePeriod>
+    <item>
+      <title>The Future of Artificial Intelligence: What to Expect in 2025</title>
+      <link>https://www.techtrends.com/articles/future-of-ai-2025</link>
+      <description>An in-depth look at the advancements in AI technology and predictions for the next decade.</description>
+      <author>Jane Doe</author>
+      <pubDate>2024-02-06T10:00:00+00:00</pubDate>
+      <category>Artificial Intelligence</category>
+    </item>
+    <item>
+      <title>Exploring Quantum Computing: Basics for Beginners</title>
+      <link>https://www.techtrends.com/articles/quantum-computing-basics</link>
+      <description>A beginner's guide to understanding quantum computing and its potential impact on the tech industry.</description>
+      <author>John Smith</author>
+      <pubDate>2024-02-05T09:30:00+00:00</pubDate>
+      <category>Quantum Computing</category>
+    </item>
+    <item>
+      <title>Blockchain Beyond Cryptocurrency: Real-World Applications</title>
+      <link>https://www.techtrends.com/articles/blockchain-applications</link>
+      <description>Exploring how blockchain technology is being used beyond cryptocurrency, from healthcare to supply chain management.</description>
+      <author>Alice Johnson</author>
+      <pubDate>2024-02-04T08:45:00+00:00</pubDate>
+      <category>Blockchain</category>
+    </item>
+  </channel>
+</rss>
