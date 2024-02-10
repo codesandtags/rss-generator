@@ -8,7 +8,7 @@
     <lastBuildDate>2024-02-07T12:00:00+00:00</lastBuildDate>
     <updatePeriod>weekly</updatePeriod>
     <item>
-      <title>ADR for Evolutionary Architectures - 001</title>
+      <title>ADR for Evolutionary Architectures - 002</title>
       <link>https://www.codesandtags.io/blog/posts/adr-for-evolutionary-architectures/</link>
       <description>How many times the proposed architecture changes over time and these changes are not documented or reflected?. This is a common problem in software development</description>
       <author>Edwin Torres</author>
