@@ -10,5 +10,3 @@ RSS feeds benefit both publishers and consumers of content.
 
 - **For publishers**: RSS feeds enable them to syndicate their content automatically, making it easier to distribute and share their updates with a broader audience.
 - **For consumers**: RSS feeds provide a convenient way to aggregate updates from multiple sources into a single location, such as an RSS reader app or website, without the need to visit each site individually.
-
-- 

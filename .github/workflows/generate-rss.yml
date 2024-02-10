@@ -23,7 +23,7 @@ jobs:
         git config user.email codesandtags@gmail.com
         git add .
         git commit -m "chore: Generating feed automatically"
-        git push
+        git push origin main
     - name: Say goodbye
       run: echo "Your RSS has been generated, now you can check the URL"
       
