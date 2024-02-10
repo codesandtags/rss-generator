@@ -10,5 +10,5 @@ rss_feed:
       link: "https://www.codesandtags.io/blog/posts/adr-for-evolutionary-architectures/"
       description: "How many times the proposed architecture changes over time and these changes are not documented or reflected?. This is a common problem in software development"
       author: "Edwin Torres"
-      pubDate: "2024-02-06T10:00:00+00:00"
+      pubDate: "2024-02-09T10:00:00+00:00"
       category: "Software Architecture"
