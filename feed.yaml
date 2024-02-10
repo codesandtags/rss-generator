@@ -6,7 +6,7 @@ rss_feed:
   lastBuildDate: "2024-02-07T12:00:00+00:00"
   updatePeriod: "weekly"
   articles:
-    - title: "ADR for Evolutionary Architectures - 001"
+    - title: "ADR for Evolutionary Architectures - 002"
       link: "https://www.codesandtags.io/blog/posts/adr-for-evolutionary-architectures/"
       description: "How many times the proposed architecture changes over time and these changes are not documented or reflected?. This is a common problem in software development"
       author: "Edwin Torres"
